@@ -1,0 +1,7 @@
+os
+gunicorn
+flask
+flask-mysql
+requests
+pygal
+pymysql
